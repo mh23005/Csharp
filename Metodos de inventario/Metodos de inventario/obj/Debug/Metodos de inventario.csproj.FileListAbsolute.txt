@@ -1,0 +1,7 @@
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\bin\Debug\Metodos de inventario.exe.config
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\bin\Debug\Metodos de inventario.exe
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\bin\Debug\Metodos de inventario.pdb
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\obj\Debug\Metodos de inventario.csproj.AssemblyReference.cache
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\obj\Debug\Metodos de inventario.csproj.CoreCompileInputs.cache
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\obj\Debug\Metodos de inventario.exe
+C:\Users\Stanly\Documents\LeetCode\Pregunta diaria\C#\Metodos de inventario\Metodos de inventario\obj\Debug\Metodos de inventario.pdb
